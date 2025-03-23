@@ -1,4 +1,3 @@
-pub mod assistants;
 mod completions;
 mod constants;
 mod domain;
